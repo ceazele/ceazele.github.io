@@ -33,7 +33,7 @@
   contents:
     - title: Research Assistant
       institution: Stanford MS&E Department
-      year: June 2024 - Current
+      year: 2024
       description:
         - title: **LLM agents for economic games**
           contents:
@@ -41,13 +41,13 @@
             - Built LLM-powered agent-based model of network congestion, represented LLM agent decision process as a graph.
         - title: **LLMs for clinical messaging**
           contents:
-            - Improving doctor-patient messaging using LLMs, part of Stanford Medicine’s 4T study. 
+            - Improving doctor-patient messaging using LLMs, part of Stanford Medicine's 4T study. 
             - Created pipeline to generate messages, evaluate reading level and sentiment.
         - Advised by MS&E faculty [Ramesh Johari](https://web.stanford.edu/~rjohari/), mentored by ICME Ph.D. candidate Rachel Guo
 
     - title: Supervised Undergraduate Research
       institution: Computer Science Research at Stanford
-      year: Jan 2024 - June 2024
+      year: 2024
       description:
         - title: **Benchmark for autonomous scientific discovery agents**
           contents:
