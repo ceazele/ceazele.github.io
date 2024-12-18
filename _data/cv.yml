@@ -35,11 +35,11 @@
       institution: Stanford MS&E Department
       year: 2024
       description:
-        - title: **LLM agents for economic games**
+        - title: LLM agents for economic games
           contents:
             - Using LLMs to simulate realistic human economic behavior in multi-agent games.
             - Built LLM-powered agent-based model of network congestion, represented LLM agent decision process as a graph.
-        - title: **LLMs for clinical messaging**
+        - title: LLMs for clinical messaging
           contents:
             - Improving doctor-patient messaging using LLMs, part of Stanford Medicine's 4T study. 
             - Created pipeline to generate messages, evaluate reading level and sentiment.
@@ -49,7 +49,7 @@
       institution: Computer Science Research at Stanford
       year: 2024
       description:
-        - title: **Benchmark for autonomous scientific discovery agents**
+        - title: Benchmark for autonomous scientific discovery agents
           contents:
             - Built benchmark to assess LLMs in model building and experiment design
             - Implemented probabilistic models in Python, built LLM-powered applications
