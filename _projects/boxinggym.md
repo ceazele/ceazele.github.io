@@ -39,12 +39,3 @@ Understanding the world and explaining it with scientific theories is a central 
 
 ### Further Information
 For more details, visit the [BoxingGym Project Website](https://sites.google.com/view/boxing-gym-language/home).
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/placeholder.jpg" title="BoxingGym Pseudocode Example" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A sample of the pseudocode structure for implementing the BoxingGym framework.
-</div>
