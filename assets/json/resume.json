@@ -1,200 +1,147 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lyle Goodyear",
+    "label": "Stanford Computer Science Theory Undergraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lyleg@stanford.edu",
+    "phone": "830-370-6202",
+    "url": "",
+    "summary": "Stanford Computer Science student specializing in theory, with a GPA of 3.976. Experienced in research, programming, and leadership.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Stanford",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/lyle-goodyear"
+      },
+      {
+        "network": "GitHub",
+        "username": "ceazele",
+        "url": "https://github.com/ceazele"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "url": "",
+      "area": "Computer Science, Theory Track",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022",
+      "endDate": "2026",
+      "score": "3.976",
+      "courses": [
+        "Linear Algebra and Matrix Theory",
+        "Causal Inference",
+        "Probability for Computer Scientists",
+        "Mathematical Foundations of Computing",
+        "Multivariable Calculus",
+        "Matching and Market Design",
+        "Algorithmic Game Theory",
+        "Design and Analysis of Algorithms",
+        "Theory of Computation",
+        "Quantum Computing",
+        "Operating Systems",
+        "Programming Abstractions"
+      ]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Stanford MS&E Department",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "Current",
+      "summary": "Researched LLM agents for economic games and clinical messaging improvements.",
+      "highlights": [
+        "Built LLM-powered agent-based model of network congestion.",
+        "Developed a clinical messaging pipeline as part of the Stanford Medicine 4T study.",
+        "Advised by Ramesh Johari and mentored by Rachel Guo."
+      ]
+    },
+    {
+      "name": "Computer Science Research, Stanford",
+      "position": "Supervised Undergraduate Research",
+      "url": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "Developed a benchmark for autonomous scientific discovery agents using LLMs.",
+      "highlights": [
+        "Built probabilistic models and LLM-powered applications in Python."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "Fellowship of the Robot, FTC 13072",
+      "location": "Kerrville, TX",
+      "position": "Team Captain & Lead Programmer",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Led a robotics team to international competitions.",
+      "highlights": [
+        "Ranked 27th globally out of 7000 teams.",
+        "Implemented PID control systems in Java."
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "organization": "Kerrville Robotics Alliance",
+      "location": "Kerrville, TX",
+      "position": "Co-Founder",
+      "url": "https://kerrvilleroboticsalliance.com/",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Supported robotics teams and organized competitions.",
+      "highlights": [
+        "Secured over $35,000 in grants.",
+        "Organized two robotics competitions at Schreiner University."
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "Student Association for STEM Advocacy",
+      "location": "Remote",
+      "position": "Federal STEM Education Funding Advocate",
+      "url": "",
+      "startDate": "2021-06",
+      "endDate": "",
+      "summary": "Advocated for increased STEM education funding.",
+      "highlights": [
+        "Contributed to an $85 million funding increase for Title IV-A."
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["Python", "C/C++", "JavaScript", "Java"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Libraries",
+      "level": "Proficient",
+      "keywords": ["NumPy", "SciPy", "Pandas", "PyMC", "LangChain/LangGraph"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Tools",
+      "level": "Proficient",
+      "keywords": ["Git", "LaTeX"]
     }
   ],
-  "projects": [
+  "certificates": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Retrieving, Processing, and Visualizing Data with Python",
+      "date": "2021-10",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/d2b40d71adc6b4dd5ac497f0771a6e7b"
     }
   ]
 }
