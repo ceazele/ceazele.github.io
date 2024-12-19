@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery"
-description: "Evaluating experimental design and model discovery with language models"
+title: "BoxingGym"
+description: "Evaluating the ability of language models in experimental design and model discovery"
 img: assets/img/boxinggym.jpg
 importance: 1
 category: research
