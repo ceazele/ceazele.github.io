@@ -2,7 +2,7 @@
 layout: page
 title: "BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery"
 description: "Evaluating experimental design and model discovery with language models"
-img: assets/img/placeholder.jpg
+img: assets/img/boxinggym.jpg
 importance: 1
 category: research
 related_publications: false
@@ -12,7 +12,7 @@ Introducing **BoxingGym**, a benchmark system developed to evaluate the ability 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/boxinggym.jpg" title="BoxingGym Paper" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/boxinggym.jpg" title="BoxingGym Paper" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
     </div>
 </div>
 <div class="caption">
