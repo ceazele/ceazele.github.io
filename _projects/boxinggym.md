@@ -25,7 +25,6 @@ Understanding the world and explaining it with scientific theories is a central 
 ### Key Contributions
 - A systematic benchmark for evaluating language models in experimental design and model discovery.
 - Integration of probabilistic modeling to simulate real-world scientific environments.
-- Introduction of metrics such as Expected Information Gain (EIG) for experimental evaluation.
 - Communication-based evaluation where agents explain models to novices.
 
 ### Team
