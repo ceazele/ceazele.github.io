@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "History Representation and LLM Learning in Games"
-description: "Examining the impact of state representations on equilibrium convergence and regret minimization in multi-agent repeated games"
+description: "Examining the impact of state representations on equilibrium convergence and regret minimization in multi-agent repeated games with LLM agents"
 img: assets/img/workingpaper.jpg
 importance: 1
 category: research
