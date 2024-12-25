@@ -3,7 +3,7 @@ layout: page
 title: "BoxingGym"
 description: "Evaluating the ability of language models in experimental design and model discovery"
 img: assets/img/boxinggym.jpg
-importance: 1
+importance: 2
 category: research
 related_publications: false
 ---
