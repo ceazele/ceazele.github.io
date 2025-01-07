@@ -16,7 +16,7 @@ Introducing **BoxingGym**, a benchmark system developed to evaluate the ability 
     </div>
 </div>
 <div class="caption">
-    Paper coming soon on arXiv.
+    Working paper.
 </div>
 
 ### Abstract
@@ -37,4 +37,4 @@ Understanding the world and explaining it with scientific theories is a central 
 - Noah Goodman
 
 ### Further Information
-For more details, visit the [BoxingGym Project Website](https://sites.google.com/view/boxing-gym-language/home).
+For more details, visit the [BoxingGym Project Website](https://sites.google.com/view/boxing-gym-language/home) or read the working paper on [arXiv](https://www.arxiv.org/abs/2501.01540).

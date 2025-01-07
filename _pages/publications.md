@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publications will appear here as they are published ;)
+description: Working papers
 nav: true
 nav_order: 2
 ---
