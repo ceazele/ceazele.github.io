@@ -5,7 +5,7 @@ description: "Evaluating the ability of language models in experimental design a
 img: assets/img/boxinggym.jpg
 importance: 2
 category: research
-related_publications: false
+related_publications: true
 ---
 
 Introducing **BoxingGym**, a benchmark system developed to evaluate the ability of language models and other agents in experimental design and model discovery. 
