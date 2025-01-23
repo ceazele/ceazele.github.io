@@ -5,7 +5,7 @@ description: "Dynamic One-Sided Matching
 for Amusement Park Scheduling"
 img: assets/img/rationingexperiences.jpg
 importance: 2
-category: term projects
+category: coursework
 related_publications: false
 ---
 
