@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm Lyle! I'm a senior at Stanford University studying economics and computer science theory. My main research interests are in market design and social and economic networks. I'm currently an intern at Microsoft Research New England! I am working with Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/) to build mathematical models of learning in social networks. I'm also working on an honors thesis modeling the joint relationship between migrant and informal risk-sharing in social networks in the developing world.
 
-Previously, I worked with professor [Ramesh Johari](https://web.stanford.edu/~rjohari/) of the Stanford MS&E Department evaluating the effect of history representation on LLM agent behavior in a network routing game.
+Previously, I worked with professor [Ramesh Johari](https://web.stanford.edu/~rjohari/) of the Stanford MS&E Department evaluating the effect of history representation on LLM agent behavior in a network routing game. I'm presenting the paper at the EC '25 Information Economics and Large Language Models Workshop in July.
