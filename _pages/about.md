@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS + MS&E @ Stanford
+subtitle: CS + Econ @ Stanford | Microsoft Research
 
 profile:
   align: right
