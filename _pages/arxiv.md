@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Working papers
+permalink: /arxiv/
+title: arXiv
+description: some of my projects are available on arXiv!
 nav: true
 nav_order: 2
 ---
