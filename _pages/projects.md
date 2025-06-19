@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here you can find a list of my previous and ongoing projects. Mostly research, some just for fun.
+description: here's a list of my previous and ongoing projects. research, term papers, etc.
 nav: true
 nav_order: 3
 display_categories: [research, coursework]
