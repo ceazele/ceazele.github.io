@@ -5,7 +5,7 @@ description: "Examining the impact of state representations on equilibrium conve
 img: assets/img/workingpaper.jpg
 importance: 1
 category: research
-related_publications: false
+related_publications: true
 ---
 
 Strategic decision-making is a field modeling how rational actors make decisions according to the information present in their environment, applicable to numerous domains such as economics, social systems, robotics, and artificial intelligence. The dynamic nature of such domains has prompted research into dynamic decision making, spawning fields like reinforcement learning which models how agents make optimal decisions in response to a changing environment. In particular, repeated games have emerged as a canonical framework for studying dynamic decision making among multiple strategic actors who learn and respond to each other over time.

@@ -7,84 +7,107 @@
       value: 26th June 2004
     - name: Languages
       value: English, German
+    - name: Phone
+      value: 830-370-6202
+    - name: Email
+      value: lyleg@stanford.edu
+    - name: Profiles
+      value: 
+        - [LinkedIn](https://www.linkedin.com/in/lyle-goodyear)
+        - [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Goodyear%2C+L)
+        - [Website](https://lylegoodyear.com/)
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
+    - title: Bachelor of Science, Computer Science with Honors (Theory Subplan)
       institution: Stanford University, Stanford, CA
-      year: 2026
+      year: 2022 - 2026
       description:
-        - Major in Computer Science, Theory Track
-        - GPA\: 3.976
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+        - GPA: 4.0
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Stanford MS&E Department
-      year: 2024
+    - title: Undergraduate Research Intern
+      institution: Microsoft Research New England, Cambridge, MA
+      year: June 2025 - Sep 2025
       description:
-        - title: LLM agents for economic games
+        - title: Rational DeGroot Learning
           contents:
-            - Using LLMs to simulate realistic human economic behavior in multi-agent games.
-            - Built LLM-powered agent-based model of network congestion, represented LLM agent decision process as a graph.
-        - title: LLMs for clinical messaging
+            - Developed and analyzed extension of DeGroot social learning model
+            - Designed human subject experiment to test theory
+            - Preparing paper for submission to AER
+        - Advised by Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/)
+
+    - title: Computer Science Honors
+      institution: Stanford Computer Science Department, Stanford, CA
+      year: Sep 2025 - June 2026
+      description:
+        - title: Migration and Risk-Sharing
           contents:
-            - Improving doctor-patient messaging using LLMs, part of Stanford Medicine's 4T study. 
-            - Created pipeline to generate messages, evaluate reading level and sentiment.
-        - Advised by MS&E faculty [Ramesh Johari](https://web.stanford.edu/~rjohari/), mentored by ICME Ph.D. candidate Rachel Guo
+            - Developing joint theoretical model of migration and informal risk-sharing in social networks
+        - Advised by [Arun Chandrasekhar](https://stanford.edu/~arungc/) (Economics) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/) (Computer Science)
+
+    - title: Research Assistant
+      institution: Stanford MS&E Department, Stanford, CA
+      year: June 2024 - March 2025
+      description:
+        - title: State Representation for LLMs in Games
+          contents:
+            - Used LLMs to simulate realistic human economic behavior in multi-agent games
+            - Implemented agent-based network congestion model
+            - Designed natural language state representation framework
+            - Presented at EC ’25 Information Economics X LLMs
+        - Advised by [Ramesh Johari](https://web.stanford.edu/~rjohari/) and mentored by ICME Ph.D. candidate Rachel Guo
 
     - title: Supervised Undergraduate Research
-      institution: Computer Science Research at Stanford
-      year: 2024
+      institution: Stanford Computer Science Department, Stanford, CA
+      year: Jan 2024 - June 2024
       description:
-        - title: BoxingGym. Benchmark for autonomous scientific discovery agents
+        - title: Benchmark for Autonomous Scientific Discovery Agents
           contents:
             - Built benchmark to assess LLMs in model building and experiment design
-            - Implemented probabilistic models in Python, built LLM-powered applications
+            - Implemented probabilistic models in Python
+            - Built interface between simulated environment and LLM agents
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Coursework
+  type: nested_list
+  contents:
+    - title: Mathematics & Statistics
+      items:
+        - Linear Algebra & Matrix Theory
+        - Causal Inference
+        - Probability for Computer Scientists
+        - Mathematical Foundations of Computing
+        - Multivariable Calculus
+        - Combinatorial Optimization
+        - Theoretical Statistics
+        - Real Analysis
+    - title: Computer Science & Economics
+      items:
+        - Social & Economic Networks (Graduate)
+        - Matching & Market Design (Graduate)
+        - Randomized Algorithms
+        - Algorithmic Game Theory
+        - Design & Analysis of Algorithms
+        - Theory of Computation
+        - Quantum Computing
+        - Operating Systems
+        - Programming Abstractions
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
+- title: Technical Skills
+  type: list
+  contents:
+    - Languages: Python, C/C++, JavaScript, Java
+    - Libraries: NumPy, SciPy, Pandas, PyMC, LangChain/LangGraph, oTree
+    - Other: Git, LaTeX
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Retrieving, Processing, and Visualizing Data with Python
+      institution: Coursera
+      year: Oct 2021
+      description:
+        - [Certificate Link](https://coursera.org/share/d2b40d71adc6b4dd5ac497f0771a6e7b)
