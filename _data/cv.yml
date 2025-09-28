@@ -12,10 +12,10 @@
     - name: Email
       value: lyleg@stanford.edu
     - name: Profiles
-      value: 
-        - [LinkedIn](https://www.linkedin.com/in/lyle-goodyear)
-        - [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Goodyear%2C+L)
-        - [Website](https://lylegoodyear.com/)
+      value:
+        - "[LinkedIn](https://www.linkedin.com/in/lyle-goodyear)"
+        - "[arXiv](https://arxiv.org/search/cs?searchtype=author&query=Goodyear%2C+L)"
+        - "[Website](https://lylegoodyear.com/)"
 
 - title: Education
   type: time_table
@@ -24,7 +24,7 @@
       institution: Stanford University, Stanford, CA
       year: 2022 - 2026
       description:
-        - GPA: 4.0
+        - "GPA: 4.0"
 
 - title: Research Experience
   type: time_table
@@ -35,10 +35,10 @@
       description:
         - title: Rational DeGroot Learning
           contents:
-            - Developed and analyzed extension of DeGroot social learning model
-            - Designed human subject experiment to test theory
-            - Preparing paper for submission to AER
-        - Advised by Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/)
+            - "Developed and analyzed extension of DeGroot social learning model"
+            - "Designed human subject experiment to test theory"
+            - "Preparing paper for submission to AER"
+        - "Advised by Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/)"
 
     - title: Computer Science Honors
       institution: Stanford Computer Science Department, Stanford, CA
@@ -46,8 +46,8 @@
       description:
         - title: Migration and Risk-Sharing
           contents:
-            - Developing joint theoretical model of migration and informal risk-sharing in social networks
-        - Advised by [Arun Chandrasekhar](https://stanford.edu/~arungc/) (Economics) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/) (Computer Science)
+            - "Developing joint theoretical model of migration and informal risk-sharing in social networks"
+        - "Advised by [Arun Chandrasekhar](https://stanford.edu/~arungc/) (Economics) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/) (Computer Science)"
 
     - title: Research Assistant
       institution: Stanford MS&E Department, Stanford, CA
