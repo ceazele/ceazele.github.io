@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ceazele.github.io/sitemap.xml
+Sitemap: https://ceazele.github.io/sitemap.xml
