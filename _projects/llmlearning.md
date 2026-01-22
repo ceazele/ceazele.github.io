@@ -26,6 +26,7 @@ We create a framework to characterize the possible representations for this game
 We are motivated by recent advancements in large language model (LLM) decision making. In particular, we study LLM agents which call upon an LLM as an oracle for reasoning. LLM agents have shown promise as decision makers in online environments, and researchers have taken interest in studying how LLMs interact in repeated games. These agents must be provided with a natural language state representation to extrapolate information from the history of play and make decisions. However, prior literature has not explored the effect of state representation on learning in such agents powered by LLMs. To address this, we test a number of state representations according to our framework, varying the amount of historical information about the prompted agent, the agent’s opponents, and the natural language representation of the information. We measure our results against the theoretical equilibrium of the game as well as an identical study with human subjects, providing two points of comparison for expectations of agent performance in this setting. We aim to provide guidance to researchers studying dynamic strategic decision making, particularly in multi-agent settings with LLMs.
 
 ### Team
+
 - **Lyle Goodyear**
 - **Rachel Guo**
 - **Ramesh Johari**

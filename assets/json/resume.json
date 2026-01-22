@@ -61,9 +61,7 @@
       "startDate": "June 2024",
       "endDate": "Current",
       "summary": "Using LLMs to simulate realistic human economic behavior in multi-agent games. Built LLM-powered agent-based model of network congestion, represented LLM agent decision process as a graph. Improving doctor-patient messaging using LLMs, part of Stanford Medicine’s 4T study. Created pipeline to generate messages, evaluate reading level and sentiment.",
-      "highlights": [
-        "Advised by professor Ramesh Johari and mentored by Ph.D. candidate Rachel Guo."
-      ]
+      "highlights": ["Advised by professor Ramesh Johari and mentored by Ph.D. candidate Rachel Guo."]
     },
     {
       "name": "Computer Science Research, Stanford",

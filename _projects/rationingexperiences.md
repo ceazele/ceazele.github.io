@@ -19,6 +19,7 @@ related_publications: false
 </div>
 
 ### Abstract
+
 We describe practical, lightweight algorithmic solutions for the problem of one-sided
 matching with dynamic ordinal preferences and multiple capacities. In particular, we
 focus on amusement park scheduling where guests have preferences over rides they
@@ -28,8 +29,10 @@ sequential variants of the Random Serial Dictatorship (RSD) and Probabilistic Se
 calibrated to ride capacity and wait time data from Disneyland.
 
 ### Term Project
+
 This paper was our term project for ECON 285 at Stanford in Fall 2024. Theme parks are a personal hobby of mine, so it was very gratifying to unite my passion for market design with my love of theme parks! You can find a link to the PDF [here](https://lylegoodyear.com/assets/pdf/ECON_285_Final_Project.pdf). Thank you to [thrill-data.com](https://www.thrill-data.com/) and [darkridedatabase.com](https://darkridedatabase.com/) for providing the data used in the paper.
 
 ### Team
+
 - Lyle Goodyear
 - Ivan-Aleksandar Mavrov
