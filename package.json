@@ -1,6 +1,16 @@
 {
+  "scripts": {
+    "build:sim": "vite build"
+  },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "3.1.1"
+    "@tailwindcss/vite": "^4.2.1",
+    "@vitejs/plugin-react": "^5.1.4",
+    "postcss-prefix-selector": "^2.1.1",
+    "prettier": "3.1.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1",
+    "vite": "^7.3.1"
   }
 }
