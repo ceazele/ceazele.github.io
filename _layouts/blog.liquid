@@ -10,7 +10,7 @@ layout: default
   </header>
 
   <article>
-    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% assign posts_by_year = site.posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
     {% for year_group in posts_by_year %}
       <h2 class="mt-4">{{ year_group.name }}</h2>
       <div class="table-responsive">
@@ -27,7 +27,8 @@ layout: default
                   <a class="post-link" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
                 {% endif %}
                 {% if post.description %}
-                  <br><small class="text-muted">{{ post.description }}</small>
+                  <br>
+                  <small class="text-muted">{{ post.description }}</small>
                 {% endif %}
               </td>
             </tr>

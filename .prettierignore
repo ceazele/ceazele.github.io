@@ -10,3 +10,9 @@ lighthouse_results/**
 _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
+assets/js/degroot-simulation.css
+assets/js/degroot-simulation.js
+degroot-simulation.jsx
+src/
+vite.config.js
+CLAUDE.md
