@@ -11,7 +11,7 @@ thumbnail: assets/img/blog/urban-wasteland/plaza-vi-interior.jpg
 ## Note
 
 This essay was originally written four years ago. Since then, the landscape of internet discourse on liminal spaces has shifted dramatically.
-With the theatrical release of Kane Parson's Backrooms, the urban wasteland has saturated the wider cultural consciousness. Now more than everseems the perfect time to make this essay public. It's also my first blog post!
+With the theatrical release of Kane Parson's Backrooms, the urban wasteland has saturated the wider cultural consciousness. Now more than ever seems the perfect time to make this essay public. It's also my first blog post!
 
 > "It is so quiet out here, it is the quietest place in the world."
 >
