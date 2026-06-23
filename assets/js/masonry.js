@@ -1,1 +1,1 @@
-$(document).ready(function(){var r=$(".grid").masonry({gutter:10,horizontalOrder:!0,itemSelector:".grid-item"});r.imagesLoaded().progress(function(){r.masonry("layout")})});
+$(document).ready(function(){var o=$(".grid").not("#degroot-root, #degroot-root *").masonry({gutter:10,horizontalOrder:!0,itemSelector:".grid-item"});o.imagesLoaded().progress(function(){o.masonry("layout")})});
