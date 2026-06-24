@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capitalism, Ghosts, and the Sublime: The Philosophy of the Urban Wasteland"
-date: 2023-06-10
+date: 2026-06-23
 description: "What is so evocative about abandoned movie theaters, decaying big-box retail, and forgotten corners of the internet?"
 giscus_comments: false
 related_posts: false
