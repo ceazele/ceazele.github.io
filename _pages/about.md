@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS + Econ @ Stanford | Microsoft Research
+subtitle: Everything Comes Down to Aesthetics and Political Economy
 
 profile:
   align: right
@@ -17,6 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Lyle! I'm a senior at Stanford University studying economics and computer science theory. My main research interests are in market design and social and economic networks. This summer, I was an intern at Microsoft Research New England. I am continuing work with Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/) to build mathematical models of learning in social networks. I'm also working on an honors thesis modeling the joint relationship between migration and informal risk-sharing in social networks in the developing world, advised by [Arun Chandrasekhar](https://stanford.edu/~arungc/).
+I’m interested in information and incentives in decentralized systems—particularly social and economic networks and resource allocation mechanisms. I recently graduated from Stanford with a BS with Honors in Computer Science focusing on theory, and I’m beginning a Predoctoral Research Fellowship at Microsoft Research New York in the Economics and Computation Group. Last summer, I interned at MSR New England where I worked with [Markus Mobius](https://www.markusmobius.org/) on models of consensus formation in social networks. Previously, I worked with [Ramesh Johari](https://web.stanford.edu/~rjohari/) of the Stanford MS&E Department to study LLM agentic behavior in network routing games. My research has been featured at INFORMS and in workshops at ACM EC and NeurIPS.
 
-Previously, I worked with professor [Ramesh Johari](https://web.stanford.edu/~rjohari/) of the Stanford MS&E Department evaluating the effect of history representation on LLM agent behavior in a network routing game. I presented the paper at the EC '25 Information Economics and Large Language Models Workshop in July last year.
+I’m also interested in cultural theory, hauntology, architecture, surrealism, electronic music, theme parks, and dreams. I write about some of these topics on my [blog](/blog/). I even [DJ](/music/) in my free time.
+

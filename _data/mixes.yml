@@ -1,0 +1,51 @@
+- type: mix
+  title: "I Will Not Talk in Class, Vol. 3"
+  tags: ["mix"]
+  duration: ""
+  mixcloud_url: "https://www.mixcloud.com/dj_loudmouth/i-will-not-talk-in-class-vol-3/"
+
+- type: photo
+  image: "assets/img/music/dj7.jpg"
+
+- type: photo
+  image: "assets/img/music/dj3.jpg"
+
+- type: youtube
+  title: ""
+  youtube_id: "Awid6I3bV5s"
+
+- type: photo
+  image: "assets/img/music/dj9.jpg"
+
+- type: mix
+  title: "I Will Not Talk in Class, Vol. 2"
+  tags: ["mix"]
+  duration: ""
+  mixcloud_url: "https://www.mixcloud.com/dj_loudmouth/i-will-not-talk-in-class-vol-2/"
+
+- type: photo
+  image: "assets/img/music/dj1.jpg"
+
+- type: photo
+  image: "assets/img/music/dj5.jpg"
+
+- type: photo
+  image: "assets/img/music/dj10.jpg"
+
+- type: mix
+  title: "I Will Not Talk in Class, Vol. 1"
+  tags: ["mix"]
+  duration: ""
+  mixcloud_url: "https://www.mixcloud.com/dj_loudmouth/i-will-not-talk-in-class-vol-1/"
+
+- type: photo
+  image: "assets/img/music/dj8.jpg"
+
+- type: photo
+  image: "assets/img/music/dj4.jpg"
+
+- type: photo
+  image: "assets/img/music/dj2.jpg"
+
+- type: photo
+  image: "assets/img/music/dj6.jpg"
