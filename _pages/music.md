@@ -38,3 +38,5 @@ nav_order: 6
     {% endif %}
   {% endfor %}
 </div>
+
+<p class="music-credit"><em>b&w photos courtesy of <a href="https://www.instagram.com/samyminev/" target="_blank" rel="noopener noreferrer">sam minev</a></em></p>
