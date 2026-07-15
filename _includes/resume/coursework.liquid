@@ -1,0 +1,10 @@
+<div class="card-text font-weight-light">
+  {% for category in data[1] %}
+    <h6 class="font-weight-bold ml-1 ml-md-4 mt-2">{{ category[0] }}</h6>
+    <ul class="items ml-1 ml-md-4">
+      {% for course in category[1] %}
+        <li><span class="item">{{ course }}</span></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

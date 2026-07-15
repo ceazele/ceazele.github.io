@@ -3,10 +3,8 @@
   contents:
     - name: Full Name
       value: Lyle Goodyear
-    - name: Date of Birth
-      value: 26th June 2004
-    - name: Languages
-      value: English, German
+    - name: Title
+      value: Predoctoral Research Fellow at Microsoft Research NYC
     - name: Phone
       value: 830-370-6202
     - name: Email
@@ -20,56 +18,49 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science, Computer Science with Honors (Theory Subplan)
-      institution: Stanford University, Stanford, CA
+    - title: Stanford University
+      institution: Stanford, CA
       year: 2022 - 2026
       description:
-        - "GPA: 4.0"
+        - "Computer Science with Honors (BS), Theory Subplan"
+        - "GPA: 3.997, Tau Beta Pi Engineering Honor Society"
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Intern
-      institution: Microsoft Research New England, Cambridge, MA
-      year: June 2025 - Sep 2025
+    - title: Predoctoral Research Fellow
+      institution: Microsoft Research New York, Economics and Computation Group
+      year: July 2026
       description:
-        - title: Rational DeGroot Learning
-          contents:
-            - "Developed and analyzed extension of DeGroot social learning model"
-            - "Designed human subject experiment to test theory"
-            - "Preparing paper for submission to AER"
         - "Advised by Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/)"
 
-    - title: Computer Science Honors
-      institution: Stanford Computer Science Department, Stanford, CA
-      year: Sep 2025 - June 2026
+    - title: Undergraduate Research Intern
+      institution: Microsoft Research New England, Economics and Computation Group
+      year: June 2025 - Sep 2025
       description:
-        - title: Migration and Risk-Sharing
+        - title: "Rational DeGroot Learning"
           contents:
-            - "Developing joint theoretical model of migration and informal risk-sharing in social networks"
-        - "Advised by [Arun Chandrasekhar](https://stanford.edu/~arungc/) (Economics) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/) (Computer Science)"
+            - "Developed and analyzed extension of DeGroot social learning model. Designed human subject experiment to test theory. Preparing paper for submission to American Economic Review"
+        - "Advised by Sr. Principal Researcher [Markus Mobius](https://www.markusmobius.org/)"
 
     - title: Research Assistant
-      institution: Stanford MS&E Department, Stanford, CA
+      institution: Stanford Department of Management Science and Engineering
       year: June 2024 - March 2025
       description:
-        - title: State Representation for LLMs in Games
+        - title: "State Representation for LLMs in Games"
           contents:
-            - Used LLMs to simulate realistic human economic behavior in multi-agent games
-            - Implemented agent-based network congestion model
-            - Designed natural language state representation framework
-            - Presented at EC ’25 Information Economics X LLMs
-        - Advised by [Ramesh Johari](https://web.stanford.edu/~rjohari/) and mentored by ICME Ph.D. candidate Rachel Guo
+            - "Used LLMs to simulate realistic human economic behavior in multi-agent games. Implemented agent-based network congestion model, designed natural language state representation framework"
+        - "Advised by MS&E Professor [Ramesh Johari](https://web.stanford.edu/~rjohari/), mentored by ICME Ph.D. candidate Rachel Guo"
+        - "Presented at EC '25 Information Economics X LLMs"
 
     - title: Supervised Undergraduate Research
-      institution: Stanford Computer Science Department, Stanford, CA
+      institution: Stanford Department of Computer Science
       year: Jan 2024 - June 2024
       description:
-        - title: Benchmark for Autonomous Scientific Discovery Agents
+        - title: "Benchmark for Autonomous Scientific Discovery Agents"
           contents:
-            - Built benchmark to assess LLMs in model building and experiment design
-            - Implemented probabilistic models in Python
-            - Built interface between simulated environment and LLM agents
+            - "Built benchmark to assess LLMs in model building and experiment design; implemented probabilistic models in Python, built interface between simulated environment and LLM agents"
+        - "Presented at NeurIPS '25 Scaling Environments for Agents"
 
 - title: Coursework
   type: nested_list
@@ -81,15 +72,16 @@
         - Probability for Computer Scientists
         - Mathematical Foundations of Computing
         - Multivariable Calculus
-        - Combinatorial Optimization
-        - Theoretical Statistics
+        - Combinatorial Optimization (Graduate)
+        - Theoretical Statistics (Graduate)
         - Real Analysis
+        - Convex Optimization (Graduate)
     - title: Computer Science & Economics
       items:
         - Social & Economic Networks (Graduate)
         - Matching & Market Design (Graduate)
-        - Randomized Algorithms
-        - Algorithmic Game Theory
+        - Randomized Algorithms (Graduate)
+        - Algorithmic Game Theory (Graduate)
         - Design & Analysis of Algorithms
         - Theory of Computation
         - Quantum Computing
@@ -99,9 +91,9 @@
 - title: Technical Skills
   type: list
   contents:
-    - Languages: Python, C/C++, JavaScript, Java
-    - Libraries: NumPy, SciPy, Pandas, PyMC, LangChain/LangGraph, oTree
-    - Other: Git, LaTeX
+    - "Languages: Python, C/C++, JavaScript, Java"
+    - "Libraries: NumPy, SciPy, Pandas, PyMC, LangChain/LangGraph, oTree"
+    - "Other: Git, LaTeX"
 
 - title: Certifications
   type: time_table

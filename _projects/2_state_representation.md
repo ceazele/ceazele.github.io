@@ -25,6 +25,4 @@ We apply this framework to a dynamic selfish routing game, chosen because it adm
 - Rachel Guo
 - Ramesh Johari
 
-<!-- NOTE FOR LYLE: Add a PDF link here once you're ready to share it publicly, e.g.:
-[Read the paper (PDF)](/assets/pdf/state_representation.pdf)
--->
+[Read the paper (PDF)](/assets/pdf/staterep.pdf)

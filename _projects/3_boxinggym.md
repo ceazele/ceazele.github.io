@@ -30,6 +30,7 @@ Understanding the world and explaining it with scientific theories is a central 
 
 ### Further Information
 
+- [Read the paper (PDF)](/assets/pdf/science.pdf)
 - [BoxingGym Project Website](https://sites.google.com/view/boxing-gym-language/home)
 - [arXiv](https://www.arxiv.org/abs/2501.01540)
 - [GitHub](https://github.com/kanishkg/boxing-gym/)
