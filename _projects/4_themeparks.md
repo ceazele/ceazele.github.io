@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Rationing Experiences"
-description: "Dynamic one-sided matching mechanisms for amusement park scheduling, validated with Disneyland data."
-img: assets/img/themeparks.jpg
+description: "Dynamic one-sided matching mechanisms for amusement park scheduling, simulated with Disneyland data."
+img: assets/img/projects/themeparks.jpg
+img_alt: "Alex Hutton, Weft (2025)"
 importance: 1
 category: term papers
 related_publications: false

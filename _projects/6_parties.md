@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "The Life of the Party"
-description: "Diffusion in networks under sequential participation — exact formulas for party size on simple graph families."
-img: assets/img/parties.jpg
+description: "Diffusion in networks under random sequential participation."
+img: assets/img/projects/parties.jpg
+img_alt: "Pierre-Auguste Renoir, Luncheon of the Boating Party (1881)"
 importance: 3
 category: term papers
 related_publications: false

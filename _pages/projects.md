@@ -5,7 +5,7 @@ permalink: /projects/
 description: here's a list of my previous and ongoing projects. research, term papers, etc.
 nav: true
 nav_order: 3
-display_categories: [research, coursework]
+display_categories: [research, term papers]
 horizontal: false
 ---
 

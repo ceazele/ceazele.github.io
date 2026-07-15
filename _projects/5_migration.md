@@ -2,7 +2,8 @@
 layout: page
 title: "Temporary Migration and Risk-Sharing"
 description: "A graph-theoretic model of how network structure drives migration and risk-sharing under correlated income shocks."
-img: assets/img/migration.jpg
+img: assets/img/projects/migration.jpg
+img_alt: "Edel Rodriguez, Strangers (2018)"
 importance: 2
 category: term papers
 related_publications: false

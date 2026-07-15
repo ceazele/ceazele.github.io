@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "BoxingGym"
+title: "Benchmarking Automated Scientific Discovery"
 description: "A benchmark for evaluating language models in experimental design and model discovery."
-img: assets/img/boxinggym.jpg
+img: assets/img/projects/boxinggym.jpg
+img_alt: "Wassily Kandinsky, Several Circles (1926)"
 importance: 3
 category: research
 related_publications: false

@@ -2,7 +2,8 @@
 layout: page
 title: "State Representation and LLM Behavior in Dynamic Games"
 description: "How natural language state representations affect LLM agent behavior and equilibrium convergence in repeated multi-agent games."
-img: assets/img/state_representation.jpg
+img: assets/img/projects/state_representation.jpg
+img_alt: "René Magritte, Golconda (1953)"
 importance: 2
 category: research
 related_publications: false
